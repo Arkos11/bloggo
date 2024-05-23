@@ -36,10 +36,15 @@ article {
     border-radius: 5px;
     padding: 20px;
     margin-top: 20px;
+    cursor: pointer;
 }
 
 article h3 {
     margin-top: 0;
+}
+
+.content {
+    display: none;
 }
 
 footer {
