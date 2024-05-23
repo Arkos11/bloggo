@@ -36,15 +36,10 @@ article {
     border-radius: 5px;
     padding: 20px;
     margin-top: 20px;
-    cursor: pointer;
 }
 
-article h3 {
+article h2 {
     margin-top: 0;
-}
-
-.content {
-    display: none;
 }
 
 footer {
@@ -55,4 +50,14 @@ footer {
     position: fixed;
     width: 100%;
     bottom: 0;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
 }
