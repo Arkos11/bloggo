@@ -36,10 +36,18 @@ article {
     border-radius: 5px;
     padding: 20px;
     margin-top: 20px;
+    display: flex;
+    align-items: center;
 }
 
 article h2 {
     margin-top: 0;
+}
+
+.anime-image {
+    max-width: 150px;
+    margin-right: 20px;
+    border-radius: 5px;
 }
 
 footer {
